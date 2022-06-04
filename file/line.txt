@@ -1,0 +1,3 @@
+line one: hello world!
+line one: hello fishc!
+line three: I love fishc,com!

@@ -1,0 +1,4 @@
+echo first program
+date
+cat ~/FishC/sle5/test2.c
+
